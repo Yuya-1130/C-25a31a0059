@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37027.9 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "kihonkadai1", "kihonkadai1\kihonkadai1.vcxproj", "{B285ED84-E908-4849-B21D-AF5A9A654BD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B285ED84-E908-4849-B21D-AF5A9A654BD1}.Debug|x64.ActiveCfg = Debug|x64
+		{B285ED84-E908-4849-B21D-AF5A9A654BD1}.Debug|x64.Build.0 = Debug|x64
+		{B285ED84-E908-4849-B21D-AF5A9A654BD1}.Debug|x86.ActiveCfg = Debug|Win32
+		{B285ED84-E908-4849-B21D-AF5A9A654BD1}.Debug|x86.Build.0 = Debug|Win32
+		{B285ED84-E908-4849-B21D-AF5A9A654BD1}.Release|x64.ActiveCfg = Release|x64
+		{B285ED84-E908-4849-B21D-AF5A9A654BD1}.Release|x64.Build.0 = Release|x64
+		{B285ED84-E908-4849-B21D-AF5A9A654BD1}.Release|x86.ActiveCfg = Release|Win32
+		{B285ED84-E908-4849-B21D-AF5A9A654BD1}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5EBE083E-C0B1-4B2E-B84F-F3ECB804DDCA}
+	EndGlobalSection
+EndGlobal
