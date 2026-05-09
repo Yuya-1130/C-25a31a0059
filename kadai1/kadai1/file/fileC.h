@@ -1,5 +1,5 @@
 #pragma once
 
-void f2() {
+extern int valuA;
 
-}
+void f2();
